@@ -1,2 +1,11 @@
 # PythonBASICInterpreter
-An interpreter for the BASIC programming language in Python.
+
+'Sup y'all! This is my first published program, so please don't be too harsh.
+
+Yeah.
+
+'Tis an interpreter for a modified version of BASIC.
+
+Can't really add anything else.
+
+Yeeeeeaaaaghhhfdjguirfncgiv.
